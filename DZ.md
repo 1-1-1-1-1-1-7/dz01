@@ -33,3 +33,6 @@
  Переход по ссылке не обязателен [Котики](https://www.google.com/search?sca_esv=d5906f5d1c57a47c&q=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE+%D1%81+%D0%BA%D0%BE%D1%82%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8&tbm=vid&source=lnms&sa=X&sqi=2&pjf=1&ved=2ahUKEwi_1Z7KubSEAxW0SFUIHbpGBAAQ0pQJegQIDRAB&biw=1440&bih=739&dpr=1#fpstate=ive&vld=cid:c44ca967,vid:c_SWZvfKIyA,st:0 "Особо опасно уровень мимишности превышен")
  
 ## Новые команды
+```sh
+Git Branch Просмотр новой ветки и добавление новых веток гита
+```
